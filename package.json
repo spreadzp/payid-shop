@@ -19,7 +19,7 @@
     "serve:ssr": "node dist/payidshop/server/main.js",
     "build:ssr": "ng build --prod && ng run payidshop:server:production",
     "prerender": "ng run payidshop:prerender",
-    "deploy-gp": "npx deploy-gh --base-href=/pay-id-shop/"
+    "deploy-gp": "npx deploy-gh --base-href=/payid-shop/"
   },
   "husky": {
     "hooks": {
