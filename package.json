@@ -115,6 +115,7 @@
     "tls": false,
     "http2": false,
     "os": false,
-    "stream": false
+    "stream": false,
+    "crypto": false
   }
 }
